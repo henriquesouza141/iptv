@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,Rede TV Ao Vivo
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w314853741.m3u8
+#EXTINF:-1 ,TVI Ao Vivo
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MjA6NDEgQU0maGFzaF92YWx1ZT1HSmJ3cTUzcTdZOGpGdGFGVGhBdE1BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDI4MWU0MjctN2FlZC00MDEyLWI3MGUtNjMwZGU3MzFjZGJm
