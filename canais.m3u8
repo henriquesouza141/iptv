@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvpampa" tvg-name="TV Pampa" tvg-logo="https://exemplo.com/logo/tvpampa.png" group-title="Canais Abertos",TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globo" tvg-name="Globo SP" tvg-logo="https://exemplo.com/logo/globo.png" group-title="Canais Abertos",Globo SP
+https://exemplo.com/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="record" tvg-name="Record TV" tvg-logo="https://exemplo.com/logo/record.png" group-title="Canais Abertos",Record TV
+https://exemplo.com/record/playlist.m3u8
