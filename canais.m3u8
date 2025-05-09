@@ -8,3 +8,6 @@ https://exemplo.com/globo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="record" tvg-name="Record TV" tvg-logo="https://exemplo.com/logo/record.png" group-title="Canais Abertos",Record TV
 https://exemplo.com/record/playlist.m3u8
+
+#EXTINF:-1 tvg-id="record" tvg-name="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="Canais Abertos",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
