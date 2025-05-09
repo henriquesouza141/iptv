@@ -11,3 +11,33 @@ https://exemplo.com/record/playlist.m3u8
 
 #EXTINF:-1 tvg-id="record" tvg-name="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="Canais Abertos",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2024/06/globo.webp" group-title="Canais Abertos",Globo SP
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc0Njg3Njc4OSwiaWF0IjoxNzQ2NzkwMzg5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjFmYTIyMDliLTg3MjgtNGEyNC1hOTlhLWVkYThjNjA4NzMwMSIsInBhdGgiOiIvbnUvZihiTWF4PTM2MzIwMDAsZHZyPTEyMCxpPTIpL2dsb2JvLXNwMS9wbGF5bGlzdC5tM3U4In0.Rc67XCa24tRVPiDYJAzs6iZ61Ujovl9zQHWFiyE1qYcgNMG4sj8d1f2-5i1O1UIetXrEu3HJYhRqhHfLm5B-F4PSuufU0umhspFbHQLQcGBZ18lHjJMaFoApMfi10OKsRyKaEoBkzOcWGRyGkUh81sYhmjLvXyRKOCxz0aHIm7YxwXIO7OkSZ3lL3HcPyw-dMfQfLS2FJo3to1o32nqzqOVIXyoMdm-_RbrfHFLkNIilFkLQmthLhVdUtpyizD6Fc-CId39ohNNNLFB6uDN0KvglwJ3tUi3dkrmnaOgHa6zZqSaQQHmWU9JDbponkR1NiwTyYNw9YkZxdADc7ZiL8A/nu/f(bMax=3632000,dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
+
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="Canais Abertos",CNN Brasil
+https://filmestorrents.site/cnnbrasil/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Jovem Pan" tvg-name="Jovem Pan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="Canais Abertos",Jovem Pan
+https://alanza.iptv2022.com/sh/Jovem_Pan_News/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
+
+#EXTINF:-1 tvg-id="Jovem Pan" tvg-name="Jovem Pan" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/08/assistir-history-channel-ao-vivo.webp" group-title="Documentarios",Canal History
+https://filmestorrents.site/history/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="futura" tvg-name="Furura" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Documentarios",Canal Futura
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Documentarios",TNT Ao Vivo
+https://new.cdnoff.online/tnt/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Sporte",Band Sorte 1
+https://new2.cdnoff.online/bandsport/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+#EXTINF:-1 tvg-id="Band Sporte" tvg-name="TNT" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Sporte",Band Sorte 2
+https://new2.cdnoff.online/bandsport/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-id="UFC_Fight_Pass_HD" tvg-name="UFC Fight Pass HD" tvg-logo="https://futemax.ee/img/poster/1/11/_0e6ce59d30aca3cc2e02eaf189e3c47b0bba1c308543f243e5df249891b99fa7.png" group-title="Sporte",UFC Fight Pass HD
+https://stream.cdnoff.online/ufcfightpass/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
