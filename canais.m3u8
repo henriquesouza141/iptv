@@ -34,10 +34,14 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 https://new.cdnoff.online/tnt/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="Banda Sport 1" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Sporte",Band Sorte 1
+#EXTINF:-1 tvg-id="TNT" tvg-name="Banda Sport 1" tvg-logo="https://futemax.ee/img/poster/1/19/_799e0725750d763519e0d27381c95e29d796db6d35a9b261e37b242ab07644b2.png" group-title="Sporte",Band Sorte 1
 https://new2.cdnoff.online/bandsport/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
-#EXTINF:-1 tvg-id="Band Sporte" tvg-name="Band Sport 2" tvg-logo="https://supertvaovivo.app/wp-content/uploads/2021/06/assistir-tv-cultura-ao-vivo.webp" group-title="Sporte",Band Sorte 2
+#EXTINF:-1 tvg-id="Band Sporte" tvg-name="Band Sport 2" tvg-logo="https://futemax.ee/img/poster/1/19/_799e0725750d763519e0d27381c95e29d796db6d35a9b261e37b242ab07644b2.png" group-title="Sporte",Band Sorte 2
 https://new2.cdnoff.online/bandsport/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-id="UFC_Fight_Pass_HD" tvg-name="UFC Fight Pass HD" tvg-logo="https://futemax.ee/img/poster/1/11/_0e6ce59d30aca3cc2e02eaf189e3c47b0bba1c308543f243e5df249891b99fa7.png" group-title="Sporte",UFC Fight Pass HD
 https://stream.cdnoff.online/ufcfightpass/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
+
+
+#EXTINF:-1 tvg-id="ESPN_SPORTE" tvg-name="Espn Sport" tvg-logo="https://futemax.ee/img/poster/1/39/_2f67b961eb94cfbad049f55cc10bb5f695872d88708fa84669c0d5a37cc91e00.png" group-title="Sporte",ESPN Sport
+https://new.cdnoff.online/espn2/tracks-v1a1/mono.m3u8?wmsAuthSign=undefined
